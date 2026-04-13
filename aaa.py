@@ -1,2 +1,1 @@
 print('aa')
-print('aa')
